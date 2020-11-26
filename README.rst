@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fandras-tim%2Fwscheck.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fandras-tim%2Fwscheck?ref=badge_shield)
+
 WSCheck
 =======
 
@@ -146,3 +148,6 @@ Benchmark
 .. |IssueStats| image:: https://img.shields.io/github/issues/andras-tim/wscheck.svg
     :target: http://issuestats.com/github/andras-tim/wscheck
     :alt: Issue Stats
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fandras-tim%2Fwscheck.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fandras-tim%2Fwscheck?ref=badge_large)
